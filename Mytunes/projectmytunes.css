@@ -1,0 +1,120 @@
+#div1{
+    border: 1px solid black;
+    background-color: rgb(51,51,51);
+    height: 40px;
+    line-height: 40px;
+    font-size: large;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+a{
+    color: azure;
+    word-spacing: 30px;
+    text-decoration: none;
+}
+#div2{
+    text-align: center;
+    color: white;
+    background-image: url(../Image/showcase.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 620px; 
+    display: block;
+    padding: 80px;
+    
+    /* display: flex;
+    flex-direction: row;
+    gap: 20px;
+    flex-grow: 1; */
+
+}
+#div3{
+    text-align: center;
+    background-color: rgb(37,37,41);
+    padding: 80px;
+    font-size: x-large;
+    color: white;
+}
+#id1{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#b1{
+    background-color: red;
+    width: 120px;
+    height: 30px;
+
+}
+#img1{
+    width: 100%;
+}
+#div4{
+    text-align: center;
+    padding: 80px;
+    font-size: x-large;
+}
+#b2{
+    width: 90px;
+    height: 40px;
+    background-color:rgb(20,63,133);
+    border-color: rgb(20,63,133);
+
+
+    
+}
+#div5{
+    background-image: url(../Image/section-bg.jpeg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    background-size: cover;
+    text-align: center;
+    height: 620px;
+    color: white;
+    display: block;
+    padding: 100px;
+    
+
+}
+#div6{
+    margin-top: 400px;
+    font-size: x-large;
+}
+#div7{
+ display: flex;
+}
+#img2{
+  width: 100%;
+}
+#aaa{
+    color: blue;
+}
+#div9{
+    display: flex;
+    background-color: rgb(37,37,41);
+    color: antiquewhite;
+    
+}
+.divv{
+    text-align: left;
+    gap: 30px;
+    height: 200px;
+    width: 180px;
+    padding: 100px;
+}
+ul{
+    text-align: left;
+    font-size: small;
+}
+#div10{
+    text-align: center;
+    background-color: rgb(51,51,51);
+    width: 100%;
+    height: 70px;
+    line-height: 50px;
+}
+a1:hover{
+    background-color: rgb(51,51,51) ;
+    height: 10px;
+    width: 40px;
+}
